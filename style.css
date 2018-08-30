@@ -1,0 +1,9 @@
+#link {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-image: url("link_walking.gif");
+    background-size: 100% 100%;
+    left: 200px;
+    top: 200px;
+}
